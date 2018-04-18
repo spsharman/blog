@@ -9,7 +9,7 @@ date: 2018-04-05 00:00:00 +0000
 tags: aci
 class: post-template
 # subclass: 'post tag-fiction'
-author: Steve
+author: spsharman
 ---
 In this post we're going to take a high level look at some of the building blocks that are used when configuring an ACI network. If you're coming from a traditional networking background you should easily be able to map the ACI constructs with standard NXOS constructs.
 

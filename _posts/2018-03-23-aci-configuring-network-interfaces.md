@@ -8,7 +8,7 @@ date: 2018-03-23 09:41:00 +0000
 tags: aci
 class: post-template
 # subclass: 'post tag-fiction'
-author: Steve
+author: spsharman
 ---
 
 ACI interface configuration is achieved by defining a series of related policies (Managed Objects) which are modeled in a logical "space" before being applied to one or more physical switches.

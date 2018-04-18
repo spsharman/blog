@@ -9,7 +9,7 @@ date: 2018-03-26 22:49:00 +0000
 tags: aci
 class: post-template
 # subclass: 'post tag-fiction'
-author: Steve
+author: spsharman
 ---
 In my previous [post]({{ site.url }}{{ site.baseurl }}aci-configuring-network-interfaces.html) we looked at Leaf Profiles which contain a collection of Interfaces Selectors which in turn contain the physical interface(s) e.g. eth1/1.
 
