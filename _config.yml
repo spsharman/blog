@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /blog/
+baseurl: /blog-pages/
 
 # Website info
 title: spsharman.com
@@ -16,8 +16,8 @@ cover: assets/images/header-image.jpg
 # logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://spsharman.github.io/blog/
-source_url: https://github.com/spsharman/blog/
+production_url: https://spsharman.github.io/blog-pages/
+source_url: https://github.com/spsharman/blog-pages/
 
 # production_url: https://jekyller.github.io/jasper2/
 # source_url: https://github.com/jekyller/jasper2/
